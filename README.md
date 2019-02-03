@@ -2,7 +2,7 @@
 
 ## Description
 
-Recovery of API data. 
+Template mixing Tabs and SideMenu in Ionic. 
 
 ## Used 
 #### Framework
